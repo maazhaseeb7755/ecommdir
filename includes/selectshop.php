@@ -1,0 +1,16 @@
+<option value="General Shopping / General Store">General Shopping / General Store</option>
+		<option value="Grocery Store">Grocery Store</option>
+  		<option value="Computer Shop">Computer Shop</option>
+     	<option value="Electrical / Electronics and Appliances">Electrical / Electronics and Appliances</option>
+		<option value="Food And Beverages ">Food And Beverages</option>
+       	<option value="Clothing And Wearables">Clothing And Wearables</option>
+    	<option value="Online Institute / University">Online Institute / University </option>
+		<option value="Online Advertising / Marketing">Online Advertising / Marketing </option>
+		<option value="Law">Law</option>
+		<option value="Health And Medical Services">Health And Medical Services</option>
+		<option value="Real Estate">Real Estate </option>
+		<option value="Fashion and Beauty">Fashion and Beauty </option>
+    	<option value="Bikes/Automobiles and Vehicles">Bikes/Automobiles and Vehicles </option>
+		<option value="Internet And Networking">Internet And Networking </option>
+        <option value="Telecommunication">Telecommunication</option>
+		<option value="Other">Other </option>
